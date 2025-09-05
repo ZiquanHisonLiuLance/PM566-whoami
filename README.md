@@ -36,7 +36,7 @@ Oscar Lam
 
 Chih-Chan Lan
 
-Ziquan Liu [**@ZiquanHisonLiuLance**](https://github.com/ZiquanHisonLiuLance) Hey! My name is Ziquan Liu, though you may also call me Harrison. I enjoy singing and exploring cities on foot.
+[**@ZiquanHisonLiuLance**](https://github.com/ZiquanHisonLiuLance) Hey! My name is Ziquan Liu, though you may also call me Harrison. I enjoy singing and exploring cities on foot. <img src="images/Harrison_Profile.JPG"
 
 Tarun Mahesh
 
