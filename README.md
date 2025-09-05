@@ -37,6 +37,7 @@ Oscar Lam
 Chih-Chan Lan
 
 Ziquan Liu
+# Hey! My name is Ziquan Liu, though you may also call me Harrison. I am a first-year PhD student in Epidemiology, with primary research interest in epidemiology of ocular diseases. I also have strong interets in genetic epidemiology, cardiovascualr disease, and obesity-related health outcomes. Beyond academics, I enjoy singing and exploring cities on foot.
 
 Tarun Mahesh
 
